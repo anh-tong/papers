@@ -17,8 +17,11 @@ Collection of papers
 
 # Useful blogs
 [inFERENCe](http://www.inference.vc/)
+
 [The Specator](http://blog.shakirm.com)
+
 [John Langford](http://hunch.net/)
+
 [BAIR](http://bair.berkeley.edu/blog/)
 
 
